@@ -6,7 +6,7 @@ Create Notes: Add new notes with a title and content.
 Read Notes: Fetch and display all notes from the database.
 Delete Notes: Delete notes from the database.
 
-Technologies Used
+Technologies Used,
 Backend:
 Express.js
 PostgreSQL
@@ -17,6 +17,6 @@ Frontend:
 React
 
 cd into project folder,
-npm i 
-npm run dev (front end)
+npm i, 
+npm run dev (front end),
 node server.js (in a seperate terminal, backend server)
